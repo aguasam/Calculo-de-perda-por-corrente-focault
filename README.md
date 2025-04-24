@@ -1,0 +1,1 @@
+# Calculo-de-perda-por-corrente-focault
